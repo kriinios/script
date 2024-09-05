@@ -1,13 +1,3 @@
-getgenv().PityFarm = true
-getgenv().WantedPity = 3
---[[
-3 = 3%,
-2.4 = 2.4%, etc.
-
-10 Arrows = 1.4%
-20 Arrows = 1.8%
-]]--
-
 local Player = game.Players.LocalPlayer
 local Character = Player.Character or Player.CharacterAdded:Wait()
 
